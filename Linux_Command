@@ -1,0 +1,18 @@
+#LinuxCommand
+
+1.cd 进入文件夹
+2.mkdir 创建文件夹
+3.ls 查看文件
+4.ls -a 查看文件和文件夹
+5.ls -al 详细查看
+6.touch 创建文件
+7.cp 拷贝文件
+8.rm 删除文件
+9.rm -r 删除文件夹
+10.mv 移动 例：cp 1.txt /home/test2
+11.echo 输出  例 echo"hello" > 1.txt
+12.cat 查看内容
+13.chmod 修改权限 例:chmod +x 2.sh（r:读取 w:修改 x:执行 d:文件夹 -:文件)
+14.vi 修改文件 (i:修改文件 :wq:保存退出))
+15.ifconfig 查看网络状况
+16.  .:前目录 前进   ..:后目录 后退
